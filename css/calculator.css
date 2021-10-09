@@ -1,0 +1,53 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#border{
+    border: solid black 2px;
+    margin-left: 95px;
+    background-color: blue;
+        
+}
+
+#inp{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 46px;
+    padding-bottom: 20px;
+    margin-left: 95px;
+    font-family:serif;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.233);
+    color:black;
+    
+
+    
+
+}
+
+button{
+     width: 50px;
+     height: 40px;
+     border: solid black px;
+     box-shadow: black 2px 2px;
+     background-color: black;
+    color:white;
+    
+
+     
+}
+#operatorequal{
+    background-color: black;
+    color:white;
+
+}
+
+
+
+
+ 
